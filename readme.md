@@ -1,4 +1,4 @@
-# HTML minifier
+# Impersonate
 [![Build Status](https://travis-ci.org/nckg/laravel-impersonate.svg?branch=master)](https://travis-ci.org/nckg/laravel-impersonate) [![Packagist](https://img.shields.io/packagist/v/nckg/laravel-impersonate.svg?maxAge=2592000?style=flat-square)](https://github.com/nckg/laravel-impersonate) [![Packagist](https://img.shields.io/packagist/dt/nckg/laravel-impersonate.svg?maxAge=2592000?style=flat-square)](https://github.com/nckg/laravel-impersonate)
 
 ## Introduction
