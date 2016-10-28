@@ -1,5 +1,5 @@
 # HTML minifier
-[![Build Status](https://travis-ci.org/nckg/laravel-laravel-impersonate.svg?branch=master)](https://travis-ci.org/nckg/laravel-laravel-impersonate) [![Packagist](https://img.shields.io/packagist/v/nckg/laravel-laravel-impersonate.svg?maxAge=2592000?style=flat-square)](https://github.com/nckg/laravel-laravel-impersonate) [![Packagist](https://img.shields.io/packagist/dt/nckg/laravel-laravel-impersonate.svg?maxAge=2592000?style=flat-square)](https://github.com/nckg/laravel-laravel-impersonate) [![codecov](https://codecov.io/gh/nckg/laravel-laravel-impersonate/branch/master/graph/badge.svg)](https://codecov.io/gh/nckg/laravel-laravel-impersonate)
+[![Build Status](https://travis-ci.org/nckg/laravel-impersonate.svg?branch=master)](https://travis-ci.org/nckg/laravel-impersonate) [![Packagist](https://img.shields.io/packagist/v/nckg/laravel-impersonate.svg?maxAge=2592000?style=flat-square)](https://github.com/nckg/laravel-impersonate) [![Packagist](https://img.shields.io/packagist/dt/nckg/laravel-impersonate.svg?maxAge=2592000?style=flat-square)](https://github.com/nckg/laravel-impersonate)
 
 ## Introduction
 
