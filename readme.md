@@ -10,7 +10,7 @@ Easily impersonate any user in your Laravel Application
 You can install the package via composer:
 
 ``` bash
-composer require nckg/laravel-laravel-impersonate
+composer require nckg/laravel-impersonate
 ```
 Add following code to your user model:
 ```php
