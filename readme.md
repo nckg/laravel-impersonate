@@ -23,7 +23,7 @@ Add following code to your user model:
 Add following code to your routes file:
 ```php
     Route::get('users/{id}/impersonate', function ($id) {
-        \Auth::user()->impersonate($id);
+        \Auth::user()->setImpersonating($id);
         return redirect()->back();
     });
     Route::get('users/stop-impersonate', function () {
