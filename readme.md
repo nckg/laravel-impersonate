@@ -12,15 +12,18 @@ You can install the package via composer:
 ``` bash
 composer require nckg/laravel-impersonate
 ```
+
 Add following code to your user model:
+
 ```php
-    class User 
+    class User
     {
         use \Nckg\Impersonate\Traits\CanImpersonate;
     }
 ```
 
 Add following code to your routes file:
+
 ```php
     Route::get('users/{id}/impersonate', function ($id) {
         \Auth::user()->setImpersonating($id);
